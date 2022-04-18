@@ -1,0 +1,63 @@
+header{
+    background-color: #0353A4;
+    width: 100%;
+    padding-top: 38px;
+    padding-bottom: 10px;
+}
+h1{
+    font-family: 'Staatliches', cursive;
+    color: #001233;
+    text-align: center;
+}
+.boton{
+    background-color: #979DAC;
+    color: #001233;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    border: 3px ridge #454546
+}
+.logo{
+    width: 15px;
+    height: 15px;
+    
+}
+footer{
+    background-color: #0353A4;
+    align-content: center;
+    text-align: center;
+    
+    
+ 
+}
+.textofooter{
+    color: #001233;
+    font-family: 'Cinzel', serif;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+body{
+    background-color: #979DAC
+}
+nav{
+    margin-top: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #0353A4;
+    width: 100%;
+    padding: 5px 0px;
+}
+div{
+    padding: 10px 5px;
+}
+aside{
+    width: 60%;
+    background-color: #6b7ca7;
+    border-radius: 20px;
+    padding: 10px;
+    float: right;
+}
